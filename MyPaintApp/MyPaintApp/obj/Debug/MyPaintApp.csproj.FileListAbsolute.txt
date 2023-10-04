@@ -1,0 +1,32 @@
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe.config
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.pdb
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.AssemblyReference.cache
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Form1.resources
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Properties.Resources.resources
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.GenerateResource.cache
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.exe
+C:\Users\Gujrat laptops\source\repos\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.pdb
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe.config
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.pdb
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.AssemblyReference.cache
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Form1.resources
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Properties.Resources.resources
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.GenerateResource.cache
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.exe
+C:\Users\nauma\source\repos\AW-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.pdb
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe.config
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.exe
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\bin\Debug\MyPaintApp.pdb
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Form1.resources
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.Properties.Resources.resources
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.exe
+C:\Users\DELL\Desktop\new-MyPaintApp\new-MyPaintApp\MyPaintApp\MyPaintApp\obj\Debug\MyPaintApp.pdb
